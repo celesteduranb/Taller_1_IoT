@@ -1,4 +1,2 @@
 Integrantes:
-Celeste Durán
-Camila Cano
-Diego Escalante
+Celeste Durán, Camila Cano, Diego Escalante
