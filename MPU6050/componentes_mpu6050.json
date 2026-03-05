@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "author": "Celeste Duran",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-mpu6050", "id": "imu1", "top": 272.62, "left": 127.12, "attrs": {} }
+  ],
+  "connections": [
+    [ "imu1:VCC", "uno:5V", "red", [ "v-48", "h-38.32" ] ],
+    [ "imu1:GND", "uno:GND.2", "black", [ "v-57.6", "h-19.12" ] ],
+    [ "imu1:SDA", "uno:A4", "green", [ "v-38.4", "h57.68" ] ],
+    [ "imu1:SCL", "uno:A5", "green", [ "v-57.6", "h76.88" ] ]
+  ],
+  "dependencies": {}
+}
