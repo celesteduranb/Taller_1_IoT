@@ -5,9 +5,9 @@ Universidad de La Sabana
 
 Profesor: Fabian Paez
 
-Integrantes
-Celeste Durán
-Camila Cano
+Integrantes:
+Celeste Durán,
+Camila Cano,
 Diego Escalante
 
 ## Descripción
