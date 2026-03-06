@@ -37,6 +37,10 @@ Repositorio
 │
 └── PRUEBAS_Osciloscopio_y_Generador
     │
+    ├── codigos
+    │   ├── codigo_adc_potenciometro_y_generador.cpp
+    │   └── codigo_adcdac_osciloscopio_enviar_recibir.cpp
+    │
     ├── prueba_adc_generador
     │   │
     │   ├── Frecuencia_2Hz
@@ -65,15 +69,11 @@ Repositorio
     │   ├── montaje_dac_osciloscopio.mp4
     │   └── senales_dac_osciloscopio.mp4
     │
-    ├── prueba_grupos
-    │   ├── envio_senal.mp4
-    │   ├── envio_senal_emisor.mp4
-    │   ├── recibir_senal.mp4
-    │   └── recibir_senal_receptor.mp4
-    │
-    └── codigos
-        ├── codigo_adc_potenciometro_y_generador.cpp
-        └── codigo_adcdac_osciloscopio_enviar_recibir.cpp
+    └── prueba_grupos
+        ├── envio_senal.mp4
+        ├── envio_senal_emisor.mp4
+        ├── recibir_senal.mp4
+        └── recibir_senal_receptor.mp4
 ```
 
 ## Contenido
