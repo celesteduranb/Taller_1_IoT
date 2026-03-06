@@ -12,7 +12,7 @@ Integrantes
 
 ## Descripción
 
-Este repositorio contiene los archivos correspondientes a una práctica del curso de Internet de las Cosas. En esta práctica se implementan y prueban diferentes funcionalidades del ESP32 relacionadas con conversión analógica-digital, generación de señales analógicas y uso de periféricos básicos.
+Este repositorio contiene los archivos correspondientes al primer laboratorio en IoT. En esta práctica se implementan y prueban diferentes funcionalidades del ESP32 relacionadas con conversión analógica-digital, generación de señales analógicas y uso de periféricos básicos.
 
 Entre las actividades realizadas se incluyen pruebas con ADC y DAC, uso de un generador de señales y osciloscopio, interacción con potenciómetros y pulsadores, simulación y prueba del sensor MPU6050, y simulación de un circuito con relé.
 
