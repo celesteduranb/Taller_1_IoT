@@ -1,13 +1,13 @@
 # Implementación de Osciloscopio y Generador de Señales con ESP32
 
-Internet de las Cosas
-Universidad de La Sabana
+Internet de las Cosas  
+Universidad de La Sabana  
 
-Profesor: Fabian Paez
+Profesor: Fabian Paez  
 
-Integrantes
-**Celeste Durán**
-**Camila Cano**
+Integrantes  
+**Celeste Durán**  
+**Camila Cano**  
 **Diego Escalante**
 
 ## Descripción
