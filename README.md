@@ -1,4 +1,4 @@
-# Implementación de Osciloscopio y Generador de Señales con ESP32
+# Análisis experimental del ADC y DAC del ESP32 y su interacción con sensores y actuadores
 
 Internet de las Cosas  
 Universidad de La Sabana  
@@ -23,7 +23,7 @@ El repositorio incluye el informe del laboratorio, el código utilizado en las d
 ```
 Repositorio
 │
-├── Informe.pdf
+├── Informe_Analísis_ESP32___Durán__Cano__Escalante.pdf
 │
 ├── MPU6050
 │   ├── codigo_mpu6050.cpp
